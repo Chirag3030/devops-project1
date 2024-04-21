@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+apiVersion: v1
+kind: Namespace
+metadata:
+=======
+apiVersion: v1
+kind: Namespace
+metadata:
+>>>>>>> 43f90fbbd2f7e7dec39931129f75a7acd15774f7
+ name: valaxy
